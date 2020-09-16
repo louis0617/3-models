@@ -1,7 +1,13 @@
 三个小模型：
 https://github.com/microsoft/human-pose-estimation.pytorch#simple-baselines-for-human-pose-estimation-and-tracking
 
-https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch#training
+https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch#training 
+
+https://github.com/hellojialee/Improved-Body-Parts
+
+
+
+弃了：
 
 https://github.com/megvii-detection/MSPN
 
