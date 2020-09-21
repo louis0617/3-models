@@ -5,7 +5,7 @@ https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch#train
 
 https://github.com/hellojialee/Improved-Body-Parts
 
-
+https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch
 
 弃了：
 
